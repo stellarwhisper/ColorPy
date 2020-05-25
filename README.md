@@ -20,3 +20,4 @@ Version 0.1.0.
    I had this hosted at http://markkness.net
    (and still do) but GitHub is a better place for it now.
 
+[![Run on Repl.it](https://repl.it/badge/github/markkness/ColorPy)](https://repl.it/github/markkness/ColorPy)
